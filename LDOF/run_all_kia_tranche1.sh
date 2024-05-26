@@ -1,0 +1,23 @@
+#!/bin/bash
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/01_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/01_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/02_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/02_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/03_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/03_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/05_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/05_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/06_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/06_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/07_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/07_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/09_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/09_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/10_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/10_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/11_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/11_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/12_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/12_sequence2.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/13_sequence1.bmf 0 33 2
+./tracking /data/serin/Projects/opticalflow_track_cpu/bmf_files_kia_tranche1/13_sequence2.bmf 0 33 2
